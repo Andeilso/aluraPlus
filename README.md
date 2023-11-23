@@ -12,7 +12,7 @@ Site criado atráves do curso de HTML e CSS do ALura.
 <br>
 
 <p align="center">
-  <img alt="aluraPlus" src=".github/preview.jpg" width="100%">
+  <img alt="aluraPlus" src="img/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
